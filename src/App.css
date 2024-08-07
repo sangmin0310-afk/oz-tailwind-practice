@@ -1,7 +1,7 @@
-/* ✅ tailwindcss를 사용하기 위한 초기 설정을 진행하신 후에 과제를 진행해 주세요. */
+/* ✅ tailwindcss를 사용하기 위한 초기 설정을 진행하신 후에 과제를 진행해 주세요.
 
 /* App.jsx에서 tailwindcss를 사용하여 적용한 후 주석처리 하여 결과를 확인합니다. */
-section {
+/*section {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -10,7 +10,7 @@ section {
 }
 
 /* Header.jsx에서 tailwindcss를 사용하여 적용한 후 주석처리 하여 결과를 확인합니다. */
-.header-container {
+/*.header-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -32,7 +32,7 @@ ul li {
 }
 
 /* Content.jsx 에서 tailwindcss를 사용하여 적용한 후 주석처리 하여 결과를 확인합니다. */
-.content-container {
+/*.content-container {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -61,4 +61,4 @@ ul li {
 .content-container p {
   font-size: 12px;
   color: rgb(160, 160, 160);
-}
+} */
